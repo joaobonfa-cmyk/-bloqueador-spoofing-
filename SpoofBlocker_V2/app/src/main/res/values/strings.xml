@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Bloqueador de Spoofing</string>
+    <string name="title_main">Configuração de Bloqueio</string>
+    <string name="label_prefix">Prefixo para bloquear (ex: 2199257):</string>
+    <string name="btn_save">Salvar Configuração</string>
+    <string name="status_active">Serviço de Bloqueio Ativo</string>
+    <string name="permission_required">Permissões necessárias para funcionar.</string>
+    <string name="msg_saved">Configuração salva com sucesso!</string>
+    <string name="hint_prefix">Digite o prefixo</string>
+</resources>
